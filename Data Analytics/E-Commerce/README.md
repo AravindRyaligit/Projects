@@ -6,7 +6,7 @@ An interactive dashboard designed to analyze e-commerce sales, profit, and custo
 
 ## 📸 Dashboard Preview
 
-![E-Commerce Dashboard](Dashboard.jpg)
+![E-Commerce Dashboard](image.jpg)
 
 ---
 
