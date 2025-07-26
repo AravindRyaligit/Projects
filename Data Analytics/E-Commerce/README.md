@@ -21,26 +21,22 @@ This project provides a clear and actionable overview of e-commerce performance 
 ### 📌 Visualizations Included:
 
 - **Bar Chart – Sales by State:**  
-  Track performance of states like Maharashtra, MP, Delhi, and UP.
+  Track performance of states.
 
 - **Donut Chart – Quantity by Payment Mode:**  
-  Understand which payment methods are most used (e.g., card, UPI).
+  Understand which payment methods are most used.
 
 - **Bar Chart – Top Customers by Sales Amount:**  
-  Identify high-value customers like Harivansh and Shiva.
+  Identify high-value customers.
 
 - **Profit by Month:**  
-  Compare monthly profit trends across Q1 (Jan–Mar).
+  Compare monthly profit trends across all year (Jan–Dec).
 
 - **Sum of Quantity by Product Category:**  
   Track product movement and demand.
 
 - **Profit by Sub-Category:**  
-  Compare profitability of Printers, Phones, Accessories, etc.
-
-- **Filters:**  
-  - **Quarter Selector (Q1–Q4)**  
-  - **State Dropdown Filter**
+  Compare profitability of products.
 
 ---
 
@@ -59,9 +55,4 @@ This project provides a clear and actionable overview of e-commerce performance 
 
 - **Power BI** – Data modeling and interactive visualization  
 - **Excel** – Initial data preparation (if applicable)  
-- *(Optional: Extendable using Python/Pandas for preprocessing)*
-
----
-
-## 📁 Repository Structure
 
