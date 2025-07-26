@@ -12,16 +12,7 @@ An interactive dashboard designed to analyze e-commerce sales, profit, and custo
 
 ## 📊 Project Overview
 
-This project provides a clear and actionable overview of e-commerce performance metrics, helping stakeholders understand which products, customers, and states are contributing the most to revenue and profit. Built using Power BI for powerful visual storytelling.
-
----
-
-## ✅ Key Highlights
-
-- **Total Sales Amount:** ₹161K  
-- **Total Profit:** ₹26K  
-- **Quantity Sold:** 2008 units  
-- **Average Order Value (AOV):** ₹44K  
+This project provides a clear and actionable overview of e-commerce performance metrics, helping stakeholders understand which products, customers, and states are contributing the most to revenue and profit.
 
 ---
 
