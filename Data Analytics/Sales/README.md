@@ -2,8 +2,8 @@
 
 A dynamic and visually rich **Sales Analysis Dashboard** built for a retail business to track and understand sales performance, profitability, and product trends across various regions and customer segments.
 
-![Dashboard Screenshot 1](./604fa553-e0e5-40f4-b68d-1afc09ca7ef6.png)  
-![Dashboard Screenshot 2](./a0cac124-d535-47a1-affc-27b839e9eb7a.png)
+![Dashboard 1](Dashboard%20images/Key insight.jpg)
+![Dashboard 2](Dashboard%20images/dashboard2.png)
 
 ---
 
